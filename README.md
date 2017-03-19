@@ -1,7 +1,6 @@
 # myfirst
 
-> A Vue.js project
-
+> vue新手入门实例项目todolist，包含父子组件通信，已及组件化开发，本地存储等知识
 ## Build Setup
 
 ``` bash
